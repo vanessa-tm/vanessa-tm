@@ -16,6 +16,7 @@ technical_skills:
   - "Node.js"
   - "Express"
   - "MySQL"
+  - "API Development"
 
 currently_learning:
   - "TypeScript"
